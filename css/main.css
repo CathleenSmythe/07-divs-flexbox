@@ -153,13 +153,7 @@ p span {
   align-items: center;
   border-bottom: 1px solid #fff;
 }
-footer {
-    border-top: 1px solid #fff;
-}
 
-footer i {
-    padding: 30px 20px 0 0;
-}
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
   flex-flow: row wrap;
@@ -189,7 +183,11 @@ footer i {
     font-size: 1.3em;
 }
 
-
+.footer {
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    text-align: center;
+	
+}
 
 
 /* ==========================================================================
